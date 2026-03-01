@@ -1,9 +1,14 @@
 # daira26-frontend
 
-DAIRA '26 is a fully responsive and animated event landing page built using pure HTML, CSS, and JavaScript.
+This project represents the frontend development of the event website, designed and built using pure HTML, CSS, and JavaScript.
 
-It showcases a modern UI design with interactive animations, 3D card effects, scroll-triggered transitions, and animated counters.
+Currently, this repository includes frontend implementation only.
+# About The Event
 
+DAIRA '26 is a multi-university tech extravaganza hosted at FAST NUCES CFD.
+It brings together students from different universities to compete in technology, design, speaking, and gaming competitions.
+
+This website serves as the digital face of the event.
 # Features
 
 Modern Dark Theme UI
@@ -70,6 +75,8 @@ Add backend registration system
 
 Add event countdown timer
 
+Database integration
+
 Connect real event data
 
 Add authentication system
@@ -79,4 +86,4 @@ Add authentication system
 Muhammad Saad
 Frontend Developer
 
-# If you like this project, give it a star!
+If you like this project, give it a star!
