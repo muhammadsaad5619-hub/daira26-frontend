@@ -9,6 +9,8 @@ DAIRA '26 is a multi-university tech extravaganza hosted at FAST NUCES CFD.
 It brings together students from different universities to compete in technology, design, speaking, and gaming competitions.
 
 This website serves as the digital face of the event.
+##  Live Demo
+[Click here to view the website](https://muhammadsaad5619-hub.github.io/daira26-frontend/)
 # Features
 
 Modern Dark Theme UI
